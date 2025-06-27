@@ -40,7 +40,7 @@ I **love working with mobile apps** and use **Flutter** more often, but I'm vers
 > *"Honestly, I can get my hands on any technology now - thanks to intuitive programming and AI, of course! 😄"*
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thekavitadas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=thekavitadas&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 ## 🌟 Featured Projects
 
