@@ -37,7 +37,7 @@ I **love working with mobile apps** and use **Flutter** more often, but I'm vers
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-> *"Honestly, I can get my hands on any technology now - thanks to intuition and AI, of course! 😄"*
+> *"Honestly, I can get my hands on any technology now - thanks to intuitive programming and AI, of course! 😄"*
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thekavitadas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
