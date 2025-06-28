@@ -8,7 +8,7 @@ Currently working on **GoldClub** and building **everydaystylo** as a side proje
 
 ## 🔥 What I'm Working On
 
-- 💎 **GoldClub**: Building GoldClub - a cutting-edge B2B Jewellery SUPERAPP. Our team is really excited about empowering unorganised jewellery retailers to go digital seamlessly. It's an innovative eCommerce platform with 50,000+ jewellery designs, dynamic pricing for gold rates, and custom themes. It's been an incredible journey helping retailers unlock growth in the digital space. I manage GoldClub tech and all engineers.
+- 💎 **GoldClub**: Building GoldClub - a cutting-edge B2B Jewellery SUPERAPP. Our team is really excited about empowering unorganised jewellery retailers to go digital seamlessly. It's an innovative eCommerce platform with 50,000+ jewellery designs, dynamic pricing for gold rates, and custom themes. It's been an incredible journey helping retailers unlock growth in the digital space. I manage GoldClub tech.
 
 - 🎯 **everydaystylo**: Personal stylist app for busy women (side project)
 - 📱 Building user-centric mobile applications  
