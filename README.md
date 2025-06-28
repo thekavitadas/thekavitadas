@@ -8,7 +8,7 @@ Currently working on **GoldClub** and building **everydaystylo** as a side proje
 
 ## 🔥 What I'm Working On
 
-- 💎 **GoldClub**: Building GoldClub - a cutting-edge B2B Jewelry SUPERAPP. Our team is really excited about empowering unorganised jewelry retailers to go digital seamlessly. It's an innovative eCommerce platform with 50,000+ jewelry designs, dynamic pricing for gold rates, and custom themes. It's been an incredible journey helping retailers unlock growth in the digital space. I manage GoldClub tech and all engineers.
+- 💎 **GoldClub**: <img src="https://goldclub.co/img/logo.png" alt="GoldClub Logo" width="25" height="25" style="vertical-align: middle;"> Building GoldClub - a cutting-edge B2B Jewelry SUPERAPP. Our team is really excited about empowering unorganised jewelry retailers to go digital seamlessly. It's an innovative eCommerce platform with 50,000+ jewelry designs, dynamic pricing for gold rates, and custom themes. It's been an incredible journey helping retailers unlock growth in the digital space. I manage GoldClub tech and all engineers.
 
 - 🎯 **everydaystylo**: Personal stylist app for busy women (side project)
 - 📱 Building user-centric mobile applications  
@@ -44,7 +44,7 @@ I **love working with mobile apps** and use **Flutter** more often, but I'm vers
 
 ## 🌟 Featured Projects
 
-**GoldClub** - B2B Jewelry SUPERAPP (Work Project)  
+**GoldClub** <img src="https://goldclub.co/img/logo.png" alt="GoldClub Logo" width="20" height="20" style="vertical-align: middle;"> - B2B Jewelry SUPERAPP (Work Project)  
 **everydaystylo** - Personal styling app (Side Project - In Development)
 
 ## 📍 Location & Contact
